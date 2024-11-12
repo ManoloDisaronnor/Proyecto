@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Bienvenida">Casa de</string>
+    <string name="Login">Iniciar Sesion</string>
+    <string name="app_name">ProyectoKotlin</string>
+    <string name="botonIrAMisCasas">Ir a casas</string>
+    <string name="mnuDropDown_1">Agregar un componente</string>
+    <string name="mnuDropDown_2">Eliminar un componente</string>
+    <string name="mnuDropDown_3">Cerrar sesión</string>
+    <string name="topBar_Casas">Casas</string>
+    <style name="Theme.Proyecto" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
