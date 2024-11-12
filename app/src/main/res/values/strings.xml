@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProyectoKotlin</string>
+    <string name="Bienvenida">Casa de</string>
+    <string name="Login">Iniciar Sesion</string>
+    <string name="botonIrAMisCasas">Ir a casas</string>
+    <string name="topBar_Casas">Casas</string>
+    <string name="mnuDropDown_1">Agregar un componente</string>
+    <string name="mnuDropDown_2">Eliminar un componente</string>
+    <string name="mnuDropDown_3">Cerrar sesión</string>
+</resources>
