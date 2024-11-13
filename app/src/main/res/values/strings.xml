@@ -7,4 +7,7 @@
     <string name="mnuDropDown_1">Agregar un componente</string>
     <string name="mnuDropDown_2">Eliminar un componente</string>
     <string name="mnuDropDown_3">Cerrar sesión</string>
+    <string name="nombre">NOMBRE:</string>
+    <string name="color">COLOR:</string>
+    <string name="crear">CREAR:</string>
 </resources>
